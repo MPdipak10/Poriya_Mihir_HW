@@ -17,8 +17,8 @@ My skills are money-management and time-management.
 Unordered Lists:
 - Batsman
 - Bowler
- - Virat Kohli
- - Jasprit Bumrah
+  - Virat Kohli
+  - Jasprit Bumrah
 
  Ordered Lists:
 1. Cricket
